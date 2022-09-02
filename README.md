@@ -66,7 +66,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  git clone git@github.com:Leo02452/lessons-learned.git
 ```
 
-2 - Via interface gráfica, vá até a pasta 'lessons-learned criada. Entre nela.
+2 - Via interface gráfica, vá até a pasta 'lessons-learned' criada. Entre nela.
 
 3 - Dê um duplo clique no arquivo index.html
 </details>

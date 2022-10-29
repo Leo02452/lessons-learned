@@ -13,7 +13,7 @@
 
 ## :page_facing_up: Descrição
 
-Esse foi o meu primeiro projeto na Trybe, usando HTML5 e CSS3. O desafio proposto no projeto foi criar um site estático que contenha uma série de informações sobre o que aprendi na Trybe ao longo dos primeiros três blocos do curso.
+Esse foi o meu primeiro projeto na [Trybe](https://www.betrybe.com/), ainda no módulo de Fundamentos, usando HTML5 e CSS3. O desafio proposto no projeto foi criar um site estático que contenha uma série de informações sobre o que aprendi na Trybe ao longo dos primeiros três blocos do curso.
 
 
 ## :bulb: Habilidades desenvolvidas
